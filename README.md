@@ -1,6 +1,6 @@
 ## About
 
-I'm a software engineer who enjoys understanding systems from the inside out — how data flows, where bottlenecks form, and what it takes to make software fast and dependable at scale.
+I'm a software engineer who enjoys understanding systems from the inside out — how data flows, where bottlenecks form, and what it takes to make software fast and dependable at scale. I'm especially drawn to **database internals and optimization**: how queries are planned and executed, how data is stored and indexed, and what actually moves the needle on performance.
 
 I care about writing code that is not only correct, but also intentional: clear architecture, thoughtful trade-offs, and solutions that hold up as complexity grows. Most of what I build lives on the backend — APIs, data layers, queues, caching, and the infrastructure that keeps them running smoothly.
 
@@ -15,4 +15,4 @@ Outside of shipping code, I'm usually reading, breaking things down to understan
 
 ---
 
-*Open to collaborating on backend systems, databases, and developer tooling.*
+*Open to collaborating on backend systems, database internals, and developer tooling.*

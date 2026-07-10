@@ -10,7 +10,7 @@ Outside of shipping code, I'm usually reading, breaking things down to understan
 
 ## Projects
 
-Pinned repositories, ordered from newest to oldest.
+Pinned repositories — newest first.
 
 | | Project | Description |
 |---|---------|-------------|

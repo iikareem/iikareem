@@ -24,32 +24,13 @@ Outside of shipping code, I'm usually reading, breaking things down to understan
 
 ---
 
-## Featured Projects
-
-| Project | What it does |
-|---------|-------------|
-| [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j, vector search, MCP integration |
-| [**lite-q**](https://github.com/iikareem/lite-q) | Persistent task queue for Node.js using SQLite — delayed jobs, retries, worker isolation, zero infra |
-| [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, UUIDv7 cursor pagination, Docker, CI/CD, and k6 load tests |
-
----
-
-## Tech Stack
-
-**Languages & runtimes**
-`TypeScript` `Node.js` `Java`
-
-**Frameworks & data**
-`NestJS` `PostgreSQL` `Redis` `SQLite` `Neo4j`
-
-**Infrastructure & tooling**
-`Docker` `GitHub Actions` `MCP` `Graph RAG`
-
----
-
 ## GitHub Activity
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iikareem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iikareem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=iikareem&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=iikareem&theme=tokyonight&hide_border=true)
 

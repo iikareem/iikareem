@@ -10,6 +10,8 @@ Outside of shipping code, I'm usually reading, breaking things down to understan
 
 ## Projects
 
+Pinned repositories, ordered from newest to oldest.
+
 | | Project | Description |
 |---|---------|-------------|
 | 1 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |

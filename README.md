@@ -1,13 +1,3 @@
-<div align="center">
-
-# Kareem Ashraf
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ashraf-8934511b9/)
-
-</div>
-
----
-
 ## About
 
 I'm a software engineer who enjoys understanding systems from the inside out — how data flows, where bottlenecks form, and what it takes to make software fast and dependable at scale.
@@ -18,8 +8,11 @@ Outside of shipping code, I'm usually reading, breaking things down to understan
 
 ---
 
-<div align="center">
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ashraf-8934511b9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kareem.ashraf.dev@gmail.com)
+
+---
 
 *Open to collaborating on backend systems, databases, and developer tooling.*
-
-</div>

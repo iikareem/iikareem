@@ -16,9 +16,11 @@
 
 ## About
 
-I design and build backend systems where performance, data modeling, and reliability matter — from queue engines and caching layers to graph-based knowledge retrieval.
+I'm a software engineer who enjoys understanding systems from the inside out — how data flows, where bottlenecks form, and what it takes to make software fast and dependable at scale.
 
-Currently exploring **distributed systems**, **database internals**, and **production-grade API design**.
+I care about writing code that is not only correct, but also intentional: clear architecture, thoughtful trade-offs, and solutions that hold up as complexity grows. Most of what I build lives on the backend — APIs, data layers, queues, caching, and the infrastructure that keeps them running smoothly.
+
+Outside of shipping code, I'm usually reading, breaking things down to understand them better, or experimenting with ideas that push me to think more deeply about how great software is made.
 
 ---
 
@@ -47,12 +49,11 @@ Currently exploring **distributed systems**, **database internals**, and **produ
 
 ## GitHub Activity
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iikareem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=iikareem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iikareem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iikareem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-</div>
+![GitHub streak](https://streak-stats.demolab.com/?user=iikareem&theme=tokyonight&hide_border=true)
 
 ---
 

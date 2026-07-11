@@ -16,7 +16,7 @@ Pinned repositories — newest first.
 |---|---------|-------------|
 | 1 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
 | 2 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
-| 3 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching & cursor pagination |
+| 3 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |
 | 4 | [**Competitive-Programming**](https://github.com/iikareem/Competitive-Programming) | Algorithmic problem solutions in Java & C++ |
 
 ---

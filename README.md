@@ -6,6 +6,8 @@ I care about writing code that is not only correct, but also intentional: clear 
 
 Outside of shipping code, I'm usually reading, breaking things down to understand them better, or experimenting with ideas that push me to think more deeply about how great software is made.
 
+I also write about what I learn and love to share — blogs from across my career live on [Hashnode](https://kareemdev.hashnode.dev).
+
 ---
 
 ## Projects

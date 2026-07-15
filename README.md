@@ -10,6 +10,12 @@ I also write about what I learn and love to share — blogs from across my caree
 
 ---
 
+## Study notes
+
+I keep structured notes on systems, databases, and backend craft in **[my-study-notes](https://github.com/iikareem/my-study-notes)** — concepts, interview-style problems, and code practices.
+
+---
+
 ## Projects
 
 Pinned repositories — newest first.

@@ -10,6 +10,16 @@ I also write about what I learn and love to share — blogs from across my caree
 
 ---
 
+## Currently working on
+
+🚧 **[Pitwall](https://github.com/iikareem/pitwall)** — *in progress*
+
+Formula 1 OLAP analytics engine with **DuckDB + NestJS**: ingest real race data, store it as partitioned Parquet, and explore columnar execution, partition pruning, and analytical query patterns from the inside out.
+
+This is my main focus right now — building solid intuition for OLAP after a strong Postgres / OLTP background.
+
+---
+
 ## Study notes
 
 I keep structured notes on systems, databases, AWS, and backend craft in **[my-study-notes](https://github.com/iikareem/my-study-notes)** — concepts, interview-style problems, AWS (Developer Associate), and code practices.
@@ -22,10 +32,11 @@ Pinned repositories — newest first.
 
 | | Project | Description |
 |---|---------|-------------|
-| 1 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
-| 2 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
-| 3 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |
-| 4 | [**Competitive-Programming**](https://github.com/iikareem/Competitive-Programming) | Algorithmic problem solutions in Java & C++ |
+| 1 | [**Pitwall**](https://github.com/iikareem/pitwall) | 🚧 *In progress* — F1 OLAP analytics engine (DuckDB + NestJS + Parquet) |
+| 2 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
+| 3 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
+| 4 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |
+| 5 | [**Competitive-Programming**](https://github.com/iikareem/Competitive-Programming) | Algorithmic problem solutions in Java & C++ |
 
 ---
 

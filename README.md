@@ -16,7 +16,7 @@ I also write about what I learn and love to share — blogs from across my caree
 
 Formula 1 OLAP analytics engine with **DuckDB + NestJS**: ingest real race data, store it as partitioned Parquet, and explore columnar execution, partition pruning, and analytical query patterns from the inside out.
 
-This is my main focus right now — building solid intuition for OLAP after a strong Postgres / OLTP background.
+Built for training and learning a new data model.
 
 ---
 

@@ -10,16 +10,6 @@ I also write about what I learn and love to share — blogs from across my caree
 
 ---
 
-## Featured
-
-✅ **[Pitwall](https://github.com/iikareem/pitwall)** — *core complete*
-
-Formula 1 **OLAP** analytics engine with **DuckDB + NestJS**: Jolpica ingest → Kimball star Parquet lake → concept SQL, materialized summaries, NestJS analytics API, and benchmarks for partition pruning and raw vs summary scans.
-
-Built for training and learning analytical modeling (grain, Hive partitions, columnar storage).
-
----
-
 ## Study notes
 
 I keep structured notes on systems, databases, AWS, and backend craft in **[my-study-notes](https://github.com/iikareem/my-study-notes)** — concepts, interview-style problems, AWS (Developer Associate), and code practices.
@@ -32,7 +22,7 @@ Pinned repositories — newest first.
 
 | | Project | Description |
 |---|---------|-------------|
-| 1 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 OLAP analytics engine — DuckDB + NestJS + Parquet (ingest, star lake, API, benchmarks) |
+| 1 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 **OLAP** engine (DuckDB + NestJS): Jolpica ETL → Kimball star Parquet lake → analytics API, concept SQL, materialized summaries, and benchmarks for partition pruning vs raw scans |
 | 2 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
 | 3 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
 | 4 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |

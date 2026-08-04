@@ -22,7 +22,7 @@ Pinned repositories — newest first.
 
 | | Project | Description |
 |---|---------|-------------|
-| 1 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 **OLAP** engine (DuckDB + NestJS): Jolpica ETL → Kimball star Parquet lake → analytics API, concept SQL, materialized summaries, and benchmarks for partition pruning vs raw scans |
+| 1 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 OLAP analytics engine — DuckDB + NestJS + Parquet |
 | 2 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
 | 3 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
 | 4 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |

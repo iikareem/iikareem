@@ -22,11 +22,12 @@ Pinned repositories — newest first.
 
 | | Project | Description |
 |---|---------|-------------|
-| 1 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 OLAP analytics engine — DuckDB + NestJS + Parquet |
-| 2 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
-| 3 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
-| 4 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |
-| 5 | [**Competitive-Programming**](https://github.com/iikareem/Competitive-Programming) | Algorithmic problem solutions in Java & C++ |
+| 1 | [**RideStream**](https://github.com/iikareem/ride-stream) *(in progress)* | Real-time ride-sharing GPS pipeline — Kafka + Avro/Schema Registry + ksqlDB + NestJS |
+| 2 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 OLAP analytics engine — DuckDB + NestJS + Parquet |
+| 3 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
+| 4 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
+| 5 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |
+| 6 | [**Competitive-Programming**](https://github.com/iikareem/Competitive-Programming) | Algorithmic problem solutions in Java & C++ |
 
 ---
 

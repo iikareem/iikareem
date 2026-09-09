@@ -22,7 +22,7 @@ Pinned repositories — newest first.
 
 | | Project | Description |
 |---|---------|-------------|
-| 1 | [**RideStream**](https://github.com/iikareem/ride-stream) *(in progress)* | Real-time ride-sharing GPS pipeline — Kafka + Avro/Schema Registry + ksqlDB + NestJS |
+| 1 | [**RideStream**](https://github.com/iikareem/ride-stream) *(in progress)* | Real-time ride-sharing GPS pipeline — Kafka + Avro/Schema Registry + ksqlDB + Redis Pub/Sub + NestJS |
 | 2 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 OLAP analytics engine — DuckDB + NestJS + Parquet |
 | 3 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
 | 4 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |

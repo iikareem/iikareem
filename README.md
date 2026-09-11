@@ -21,14 +21,39 @@ Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data 
 
 Selected projects — newest first.
 
-| | Project | Description |
-|---|---------|-------------|
-| 1 | [**RideStream**](https://github.com/iikareem/ride-stream) | Real-time GPS pipeline with keyed Kafka streams, Avro schema evolution, ksqlDB anomaly detection, Prometheus/Grafana observability, and Redis GEO/Pub/Sub delivery |
-| 2 | [**Pitwall**](https://github.com/iikareem/pitwall) | Formula 1 OLAP engine using a Kimball-style star model, Parquet, DuckDB, ETL pipelines, analytics APIs, and benchmarks |
-| 3 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base that connects research papers in Neo4j and exposes retrieval workflows through MCP |
-| 4 | [**lite-q**](https://github.com/iikareem/lite-q) | Durable SQLite-backed task queue for Node.js with delayed jobs, exponential retries, worker-thread isolation, and atomic multi-worker locking |
-| 5 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production-style NestJS listings API with Redis caching, Docker, CI/CD, and k6 load testing |
-| 6 | [**Competitive Programming**](https://github.com/iikareem/Competitive-Programming) | Java and C++ solutions for data structures, algorithms, and [Codeforces](https://codeforces.com/profile/iikareem) problems |
+### [RideStream](https://github.com/iikareem/ride-stream)
+
+A real-time ride-sharing GPS pipeline covering Kafka ingestion, stream processing, observability, and live client delivery.
+
+**Technical highlight:** Built a three-broker KRaft cluster with Avro schema evolution, transactional ETA processing, ksqlDB anomaly detection, Prometheus/Grafana monitoring, and Redis GEO/Pub/Sub fan-out through Socket.IO.
+
+### [Pitwall](https://github.com/iikareem/pitwall)
+
+A Formula 1 OLAP engine that ingests real race data into a Parquet lake and serves analytics through NestJS and DuckDB.
+
+**Technical highlight:** Modeled independent-grain facts with a Kimball-style star schema and built benchmarks that compare partition pruning and raw aggregation against materialized summaries.
+
+### [GraphScholar](https://github.com/iikareem/GraphScholar)
+
+A Graph RAG knowledge base that turns research papers into connected, queryable evidence for AI assistants.
+
+**Technical highlight:** Built an end-to-end ArXiv ingestion pipeline for sections, citations, concepts, and embeddings, then exposed Neo4j graph and vector retrieval through five MCP tools over stdio and HTTP.
+
+### [lite-q](https://github.com/iikareem/lite-q)
+
+A persistent, zero-infrastructure task queue for Node.js, distributed as [`@km-dev/lite-q`](https://www.npmjs.com/package/@km-dev/lite-q).
+
+**Technical highlight:** Implemented a SQLite WAL-backed job state machine with atomic claims, delayed and cron scheduling, exponential retries, Prometheus metrics, and separate concurrency paths for I/O handlers and worker-thread jobs.
+
+### [Property Listings API](https://github.com/iikareem/property-listings-api)
+
+A production-style NestJS API with advanced filtering, cursor pagination, Redis caching, containerized startup, and CI.
+
+**Technical highlight:** Tested 100,000 seeded records with 50 concurrent k6 users, achieving 55.4 requests/second, 6.58 ms p95 latency, and a 0% error rate on a local development machine.
+
+### [Competitive Programming](https://github.com/iikareem/Competitive-Programming)
+
+Java and C++ solutions covering data structures, algorithms, and problems from [Codeforces](https://codeforces.com/profile/iikareem).
 
 ---
 

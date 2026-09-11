@@ -2,9 +2,9 @@
 
 **Backend Software Engineer · Distributed Systems · Database Internals · Performance**
 
-I build backend systems with an emphasis on making how they behave under real conditions easy to reason about—architecture, failure modes, and performance included. I care about clear design, explicit trade-offs, and measuring systems under load rather than assuming they work.
+I build backend systems—and study them through deliberate learning and practice—to make how they behave under real conditions easy to reason about: architecture, failure modes, and performance. I care about clear design, explicit trade-offs, and measuring systems under load rather than assuming they work.
 
-Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data and infrastructure tools that fit the problem. I also write about what I learn on [Hashnode](https://kareemdev.hashnode.dev).
+Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data and infrastructure tools that fit the problem. I write about what I learn on [Hashnode](https://kareemdev.hashnode.dev).
 
 ---
 
@@ -65,7 +65,9 @@ I keep structured notes on distributed systems, databases, AWS, backend engineer
 
 ## Writing
 
-Selected posts from [Hashnode](https://kareemdev.hashnode.dev):
+On [Hashnode](https://kareemdev.hashnode.dev) I write about how I learn—lessons from production-grade work through my career, and from side projects, databases, networking, and the systems behind them.
+
+Selected posts:
 
 - [When One Database Is No Longer Enough: A Practical Guide to Distributed Transactions](https://kareemdev.hashnode.dev/when-one-database-is-no-longer-enough-a-practical-guide-to-distributed-transactions)
 - [Latency, Throughput & the Laws That Govern Every System Under Load](https://kareemdev.hashnode.dev/latency-throughput-the-laws-that-govern-every-system-under-load)

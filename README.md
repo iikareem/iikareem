@@ -2,7 +2,7 @@
 
 **Backend Software Engineer · Distributed Systems · Database Internals · Performance**
 
-I build backend systems and technical projects that make infrastructure behavior visible—from Kafka partitions and consumer groups to query execution, caching, queues, and fault tolerance. I care about clear architecture, explicit trade-offs, and measuring how systems behave under load and failure.
+I build backend systems with an emphasis on making how they behave under real conditions easy to reason about—architecture, failure modes, and performance included. I care about clear design, explicit trade-offs, and measuring systems under load rather than assuming they work.
 
 Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data and infrastructure tools that fit the problem. I also write about what I learn on [Hashnode](https://kareemdev.hashnode.dev).
 
@@ -11,7 +11,7 @@ Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data 
 ## Focus
 
 - **Distributed systems:** event-driven design, Kafka, messaging, consistency, and fault tolerance
-- **Data systems:** relational modeling, query execution, indexing, OLAP, and analytical pipelines
+- **Data systems:** relational modeling, query execution, indexing, OLAP, analytical pipelines, and Neo4j/graph data
 - **Backend performance:** caching, queues, concurrency, benchmarking, and load testing
 - **Operability:** observability, failure drills, containers, and delivery automation
 

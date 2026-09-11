@@ -1,33 +1,40 @@
-## About
+# Kareem Ashraf
 
-I'm a software engineer who enjoys understanding systems from the inside out — how data flows, where bottlenecks form, and what it takes to make software fast and dependable at scale. I'm especially drawn to **database internals and optimization**: how queries are planned and executed, how data is stored and indexed, and what actually moves the needle on performance.
+**Backend Software Engineer · Distributed Systems · Database Internals · Performance**
 
-I care about writing code that is not only correct, but also intentional: clear architecture, thoughtful trade-offs, and solutions that hold up as complexity grows. Most of what I build lives on the backend — APIs, data layers, queues, caching, and the infrastructure that keeps them running smoothly.
+I build backend systems and technical projects that make infrastructure behavior visible—from Kafka partitions and consumer groups to query execution, caching, queues, and fault tolerance. I care about clear architecture, explicit trade-offs, and measuring how systems behave under load and failure.
 
-Outside of shipping code, I'm usually reading, breaking things down to understand them better, or experimenting with ideas that push me to think more deeply about how great software is made.
-
-I also write about what I learn and love to share — blogs from across my career live on [Hashnode](https://kareemdev.hashnode.dev).
+Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data and infrastructure tools that fit the problem. I also write about what I learn on [Hashnode](https://kareemdev.hashnode.dev).
 
 ---
 
-## Study notes
+## Focus
 
-I keep structured notes on systems, databases, AWS, and backend craft in **[my-study-notes](https://github.com/iikareem/my-study-notes)** — concepts, interview-style problems, AWS (Developer Associate), and code practices.
+- **Distributed systems:** event-driven design, Kafka, messaging, consistency, and fault tolerance
+- **Data systems:** relational modeling, query execution, indexing, OLAP, and analytical pipelines
+- **Backend performance:** caching, queues, concurrency, benchmarking, and load testing
+- **Operability:** observability, failure drills, containers, and delivery automation
 
 ---
 
 ## Projects
 
-Pinned repositories — newest first.
+Selected projects — newest first.
 
 | | Project | Description |
 |---|---------|-------------|
-| 1 | [**RideStream**](https://github.com/iikareem/ride-stream) | Real-time ride-sharing GPS pipeline — Kafka + Avro/Schema Registry + ksqlDB + Redis GEO/Pub/Sub + NestJS |
-| 2 | [**Pitwall**](https://github.com/iikareem/pitwall) | F1 OLAP analytics engine — DuckDB + NestJS + Parquet |
-| 3 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base for research papers — Neo4j + MCP |
-| 4 | [**lite-q**](https://github.com/iikareem/lite-q) | Persistent SQLite task queue for Node.js — zero external infra |
-| 5 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production NestJS API with Redis caching, Docker, CI/CD & load testing |
-| 6 | [**Competitive-Programming**](https://github.com/iikareem/Competitive-Programming) | Algorithmic problem solutions in Java & C++ |
+| 1 | [**RideStream**](https://github.com/iikareem/ride-stream) | Real-time GPS pipeline with keyed Kafka streams, Avro schema evolution, ksqlDB anomaly detection, Prometheus/Grafana observability, and Redis GEO/Pub/Sub delivery |
+| 2 | [**Pitwall**](https://github.com/iikareem/pitwall) | Formula 1 OLAP engine using a Kimball-style star model, Parquet, DuckDB, ETL pipelines, analytics APIs, and benchmarks |
+| 3 | [**GraphScholar**](https://github.com/iikareem/GraphScholar) | Graph RAG knowledge base that connects research papers in Neo4j and exposes retrieval workflows through MCP |
+| 4 | [**lite-q**](https://github.com/iikareem/lite-q) | Durable SQLite-backed task queue for Node.js with delayed jobs, exponential retries, worker-thread isolation, and atomic multi-worker locking |
+| 5 | [**property-listings-api**](https://github.com/iikareem/property-listings-api) | Production-style NestJS listings API with Redis caching, Docker, CI/CD, and k6 load testing |
+| 6 | [**Competitive Programming**](https://github.com/iikareem/Competitive-Programming) | Java and C++ solutions for data structures, algorithms, and [Codeforces](https://codeforces.com/profile/iikareem) problems |
+
+---
+
+## Study notes
+
+I keep structured notes on distributed systems, databases, AWS, backend engineering, and interview problems in [**my-study-notes**](https://github.com/iikareem/my-study-notes).
 
 ---
 
@@ -40,4 +47,4 @@ Pinned repositories — newest first.
 
 ---
 
-*Open to collaborating on backend systems, database internals, and developer tooling.*
+*Open to collaborating on distributed systems, database internals, backend infrastructure, and developer tooling.*

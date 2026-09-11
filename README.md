@@ -15,6 +15,8 @@ Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data 
 - **Backend performance:** caching, queues, concurrency, benchmarking, and load testing
 - **Operability:** observability, failure drills, containers, and delivery automation
 
+**Stack:** TypeScript · Node.js · NestJS · PostgreSQL · Redis · Kafka · DuckDB · Neo4j · Docker · Prometheus/Grafana
+
 ---
 
 ## Projects
@@ -51,15 +53,23 @@ A production-style NestJS API with advanced filtering, cursor pagination, Redis 
 
 **Technical highlight:** Tested 100,000 seeded records with 50 concurrent k6 users, achieving 55.4 requests/second, 6.58 ms p95 latency, and a 0% error rate on a local development machine.
 
-### [Competitive Programming](https://github.com/iikareem/Competitive-Programming)
-
-Java and C++ solutions covering data structures, algorithms, and problems from [Codeforces](https://codeforces.com/profile/iikareem).
+Also: [Competitive Programming](https://github.com/iikareem/Competitive-Programming) — Java and C++ solutions from [Codeforces](https://codeforces.com/profile/iikareem).
 
 ---
 
 ## Study notes
 
 I keep structured notes on distributed systems, databases, AWS, backend engineering, and interview problems in [**my-study-notes**](https://github.com/iikareem/my-study-notes).
+
+---
+
+## Writing
+
+Selected posts from [Hashnode](https://kareemdev.hashnode.dev):
+
+- [When One Database Is No Longer Enough: A Practical Guide to Distributed Transactions](https://kareemdev.hashnode.dev/when-one-database-is-no-longer-enough-a-practical-guide-to-distributed-transactions)
+- [Latency, Throughput & the Laws That Govern Every System Under Load](https://kareemdev.hashnode.dev/latency-throughput-the-laws-that-govern-every-system-under-load)
+- [What I Learned Building Real Observability Into an App](https://kareemdev.hashnode.dev/what-i-learned-building-real-observability-into-an-app)
 
 ---
 

@@ -4,7 +4,7 @@
 
 I build backend systems—and study them through deliberate learning and practice—to make how they behave under real conditions easy to reason about: architecture, failure modes, and performance. I care about clear design, explicit trade-offs, and measuring systems under load rather than assuming they work.
 
-Most of my work uses **TypeScript, Node.js, and NestJS**, supported by the data and infrastructure tools that fit the problem. I write about what I learn on [Hashnode](https://kareemdev.hashnode.dev).
+I write about what I learn on **[Hashnode](https://kareemdev.hashnode.dev)**.
 
 ---
 

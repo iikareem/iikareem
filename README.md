@@ -2,9 +2,9 @@
 
 **Backend Software Engineer · Distributed Systems · Database Internals · Performance**
 
-I build backend systems—and study them through deliberate learning and practice—to make how they behave under real conditions easy to reason about: architecture, failure modes, and performance. I care about clear design, explicit trade-offs, and measuring systems under load rather than assuming they work.
+I build backend systems, and I keep learning by building and practicing, so their behavior under real conditions stays clear—architecture, failure modes, and performance. I care about clear design, explicit trade-offs, and measuring systems under load rather than assuming they work.
 
-I write about what I learn on **[Hashnode](https://kareemdev.hashnode.dev)**.
+I write about what I learn on **[Hashnode](https://kareemdev.hashnode.dev)**—lessons from production work, side projects, databases, and the systems behind them.
 
 ---
 

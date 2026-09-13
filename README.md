@@ -77,7 +77,7 @@ Selected posts:
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kareem-dev-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/kareem--dev.com-2563eb?style=flat-square&label=Portfolio&labelColor=111827)](https://kareem-dev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ashraf-8934511b9/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://kareemdev.hashnode.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kareem.ashraf.dev@gmail.com)

@@ -15,45 +15,7 @@ I write about what I learn on **[Hashnode](https://kareemdev.hashnode.dev)**—l
 - **Backend performance:** caching, queues, concurrency, benchmarking, and load testing
 - **Operability:** observability, failure drills, containers, and delivery automation
 
-**Stack:** TypeScript · Node.js · NestJS · PostgreSQL · Redis · Kafka · DuckDB · Neo4j · Docker · Prometheus/Grafana
-
----
-
-## Projects
-
-Selected projects — newest first.
-
-### [RideStream](https://github.com/iikareem/ride-stream)
-
-A real-time ride-sharing GPS pipeline covering Kafka ingestion, stream processing, observability, and live client delivery.
-
-**Technical highlight:** Built a three-broker KRaft cluster with Avro schema evolution, transactional ETA processing, ksqlDB anomaly detection, Prometheus/Grafana monitoring, and Redis GEO/Pub/Sub fan-out through Socket.IO.
-
-### [Pitwall](https://github.com/iikareem/pitwall)
-
-A Formula 1 OLAP engine that ingests real race data into a Parquet lake and serves analytics through NestJS and DuckDB.
-
-**Technical highlight:** Modeled independent-grain facts with a Kimball-style star schema and built benchmarks that compare partition pruning and raw aggregation against materialized summaries.
-
-### [GraphScholar](https://github.com/iikareem/GraphScholar)
-
-A Graph RAG knowledge base that turns research papers into connected, queryable evidence for AI assistants.
-
-**Technical highlight:** Built an end-to-end ArXiv ingestion pipeline for sections, citations, concepts, and embeddings, then exposed Neo4j graph and vector retrieval through five MCP tools over stdio and HTTP.
-
-### [lite-q](https://github.com/iikareem/lite-q)
-
-A persistent, zero-infrastructure task queue for Node.js, distributed as [`@km-dev/lite-q`](https://www.npmjs.com/package/@km-dev/lite-q).
-
-**Technical highlight:** Implemented a SQLite WAL-backed job state machine with atomic claims, delayed and cron scheduling, exponential retries, Prometheus metrics, and separate concurrency paths for I/O handlers and worker-thread jobs.
-
-### [Property Listings API](https://github.com/iikareem/property-listings-api)
-
-A production-style NestJS API with advanced filtering, cursor pagination, Redis caching, containerized startup, and CI.
-
-**Technical highlight:** Tested 100,000 seeded records with 50 concurrent k6 users, achieving 55.4 requests/second, 6.58 ms p95 latency, and a 0% error rate on a local development machine.
-
-Also: [Competitive Programming](https://github.com/iikareem/Competitive-Programming) — Java and C++ solutions from [Codeforces](https://codeforces.com/profile/iikareem).
+**Stack:** TypeScript · Go · Node.js · NestJS · PostgreSQL · Redis · Kafka · DuckDB · Neo4j · Docker · Prometheus/Grafana
 
 ---
 

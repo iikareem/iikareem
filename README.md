@@ -25,18 +25,6 @@ I keep structured notes on distributed systems, databases, AWS, backend engineer
 
 ---
 
-## Writing
-
-On [Hashnode](https://kareemdev.hashnode.dev) I write about how I learn—lessons from production-grade work through my career, and from side projects, databases, networking, and the systems behind them.
-
-Selected posts:
-
-- [When One Database Is No Longer Enough: A Practical Guide to Distributed Transactions](https://kareemdev.hashnode.dev/when-one-database-is-no-longer-enough-a-practical-guide-to-distributed-transactions)
-- [Latency, Throughput & the Laws That Govern Every System Under Load](https://kareemdev.hashnode.dev/latency-throughput-the-laws-that-govern-every-system-under-load)
-- [What I Learned Building Real Observability Into an App](https://kareemdev.hashnode.dev/what-i-learned-building-real-observability-into-an-app)
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/kareem--dev.com-2563eb?style=flat-square&label=Portfolio&labelColor=111827)](https://kareem-dev.com)
